@@ -25,6 +25,7 @@
 
 # -------------------------------------------------------
 apple = "I want merge with main branch"
+git = "fuck"
 money = 2000000
 buyer_credit_good = True
 
