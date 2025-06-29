@@ -24,8 +24,7 @@
 #     print("COLD")
 
 # -------------------------------------------------------
-apple = 33
-ATM = 20
+apple = "I want merge with main branch"
 money = 2000000
 buyer_credit_good = True
 
