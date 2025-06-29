@@ -24,7 +24,7 @@
 #     print("COLD")
 
 # -------------------------------------------------------
-
+banana = "my name is banana"
 ATM = 20
 money = 2000000
 buyer_credit_good = True
