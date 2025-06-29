@@ -24,7 +24,7 @@
 #     print("COLD")
 
 # -------------------------------------------------------
-
+apple = 33
 ATM = 20
 money = 2000000
 buyer_credit_good = True
